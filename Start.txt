@@ -1,0 +1,13 @@
+[경로 이동]
+cd c:\project\myapi
+
+
+[Uvicorn 실행]
+uvicorn main:app --reload
+
+127.0.0.1:8000
+
+
+[Svelte 서버 실행]
+cd c:\project\myapi\frontend
+frontend 폴더에서 :    npm run dev
