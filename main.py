@@ -19,7 +19,7 @@ origins = [
     "http://localhost:5173",    # 또는 "http://127.0.0.1:5173"
     "http://localhost:8000"
     "http://127.0.0.1:8000"
-    "http://13.125.234.195:8000"
+    "http://13.125.234.195:8000"    #aws
 ]
 
 app.add_middleware(
